@@ -66,11 +66,11 @@ too low, or correct. This repeats until the user guesses the right number.
   
 # Resources
 
-  - [codecademy][https://www.codecademy.com/courses/learn-java/]
+  - [codecademy](https://www.codecademy.com/courses/learn-java/)
     - Step-by-step tutorials.
     - Instructions, editor, and output all in one screen.
   - Google
-    - ["How do I get a random number in Java?"][https://www.google.com/search?q=How+do+I+get+a+random+number+in+Java]
+    - ["How do I get a random number in Java?"](https://www.google.com/search?q=How+do+I+get+a+random+number+in+Java)
 
 
 [Mad Libs]: http://www.madlibs.com/
